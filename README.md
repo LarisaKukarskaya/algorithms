@@ -6,4 +6,4 @@
 
 ## 1. Введение в алгоритмы
 
-[contest.yandex.ru] https://contest.yandex.ru/contest/26365/problems/
+[contest.yandex.ru] (https://contest.yandex.ru/contest/26365/problems/)
