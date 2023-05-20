@@ -1,2 +1,5 @@
-# algorithms
-Tasks on the topics algorithms
+# Базовые алгоритмы
+
+Решение задач по алгоритмам на языке Python
+
+---
