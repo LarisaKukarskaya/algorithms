@@ -47,6 +47,42 @@
   </tr>
 </tbody></table>
   
+#### Пример 2
+<table><tbody>
+  <tr>
+  <td><b>Ввод</b></td>
+  <td><b>Вывод</b></td>  
+  </tr>
+  <tr>
+    <td valign='top'>
+      1<br>
+      1<br>
+      2<br>
+    </td>
+    <td valign='top'>
+      1 2<br>
+    </td>
+  </tr>    
+</tbody></table>
+  
+#### Пример 3
+<table><tbody>
+  <tr>
+   <td><b>Ввод</b></td>
+   <td><b>Вывод</b></td>    
+  </tr>
+  <tr>
+    <td valign='top'>
+      3<br>
+      1 8 9<br>
+      2 3 1<br>
+    </td>
+    <td valign='top'>
+      1 2 8 3 9 1<br>
+    </td>
+  </tr>
+</tbody></table>
+  
 </details>
 
 ------
