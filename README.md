@@ -12,5 +12,5 @@
 
 <details>
   <summary>
-    <b>Застежка-молния (<a href=<"introduction/zipper.py">zipper.py</a>)</b>
+    <b>Застежка-молния (<a href="introduction/zipper.py">zipper.py</a>)</b>
   </summary>
