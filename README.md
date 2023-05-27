@@ -135,12 +135,12 @@
   </tr>
   <tr>
     <td valign='top'>
-      1<br>
-      1<br>
-      2<br>
+      9<br>
+      9 3 2 0 1 5 1 0 0<br>
+      3<br>
     </td>
     <td valign='top'>
-      1 2<br>
+      4.6666666667 1.666666667 1 2 2.333333335 2 0.3333333<br>
     </td>
   </tr>    
 </tbody></table>
@@ -153,12 +153,12 @@
   </tr>
   <tr>
     <td valign='top'>
-      3<br>
-      1 8 9<br>
-      2 3 1<br>
+      5<br>
+      1 2 3 4 5<br>
+      5<br>
     </td>
     <td valign='top'>
-      1 2 8 3 9 1<br>
+      3<br>
     </td>
   </tr>
 </tbody></table>
