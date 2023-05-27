@@ -86,3 +86,9 @@
 </details>
 
 ------
+
+<details>
+  <summary>
+  <b>Скользящее среднее(<a> href"introduction/moving_average.py">moving_average.py</a>)</b>
+  </summary>
+</details>
