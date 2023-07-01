@@ -745,3 +745,8 @@
 
 ------
 
+## 2. Основные структуры данных
+
+[contest.yandex.ru](https://contest.yandex.ru/contest/23758/problems/)
+
+---
