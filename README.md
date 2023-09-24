@@ -820,7 +820,7 @@ go
 
 <details>
 <summary>
-<b>Заботливая мама (<a href="basic_data_structures/unloved_business.py">unloved_business.py</a>)</b>
+<b>Заботливая мама (<a href="basic_data_structures/caring_mother.py">caring_mother.py</a>)</b>
 </summary>
   
 #### Условие
