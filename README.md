@@ -1034,10 +1034,6 @@
   <tr>
     <td valign='top'>
       2 1 + 3 *<br>
-      push_front 861<br>
-      push_front -819<br>
-      pop_back<br>
-      pop_back<br>
     </td>
     <td valign='top'>
      9<br> 
