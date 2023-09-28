@@ -1054,7 +1054,7 @@
 
 <details>
 <summary>
-<b>Большое число (<a href="introduction/recursion_and_sortings/big_number.py">big_number.py</a>)</b>
+<b>Большое число (<a href="recursion_and_sortings/big_number.py">big_number.py</a>)</b>
 </summary>
   
 #### Условие
