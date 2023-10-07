@@ -1254,7 +1254,7 @@
 
 <details>
 <summary>
-<b>Подпоследовательность (<a href="recursion_and_sortings/subsequense.py">subsequense.py</a>)</b>
+<b>Подпоследовательность (<a href="recursion_and_sortings/subsequence.py">subsequence.py</a>)</b>
 </summary>
   
 #### Условие
