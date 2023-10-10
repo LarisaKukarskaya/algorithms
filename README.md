@@ -1376,8 +1376,6 @@
 
 ------
 
-------
-
 <details>
 <summary>
 <b>Пузырёк (<a href="recursion_and_sortings/bubble.py">bubble.py</a>)</b>
