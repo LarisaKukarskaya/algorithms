@@ -1651,3 +1651,10 @@ Swift
 </tbody></table>
 
 </details>
+---
+
+## 4. Хеш-функции
+
+[contest.yandex.ru](https://contest.yandex.ru/contest/26205/problems/)
+
+---
