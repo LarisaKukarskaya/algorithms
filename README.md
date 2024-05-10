@@ -1881,3 +1881,52 @@ gbpdcvkumyfxillgnqrv
 
 </details>
 
+---
+
+<details>
+<summary>
+<b>Подстроки (<a href="hash_functions/substrings.py">substrings.py</a>)</b>
+</summary>
+  
+#### Условие
+На вход подается строка. Нужно определить длину наибольшей подстроки, которая не содержит повторяющиеся символы.
+  
+#### Формат ввода
+Одна строка, состоящая из строчных латинских букв. Длина строки не превосходит 10 000.
+
+#### Формат вывода
+Выведите натуральное число —– ответ на задачу.
+
+#### Пример 1
+<table><tbody>
+  <tr>
+  <td><b>Ввод</b></td>
+  <td><b>Вывод</b></td>  
+  </tr>
+  <tr>
+    <td valign='top'>
+      abcabcbb<br>               
+    </td>
+    <td valign='top'>
+      3<br>                
+    </td>      
+  </tr>
+</tbody></table>
+
+#### Пример 2
+<table><tbody>
+  <tr>
+  <td><b>Ввод</b></td>
+  <td><b>Вывод</b></td>  
+  </tr>
+  <tr>
+    <td valign='top'>
+      bbbbb<br>               
+    </td>
+    <td valign='top'>
+      1<br>                
+    </td>      
+  </tr>
+</tbody></table>
+
+</details>
