@@ -1935,7 +1935,7 @@ gbpdcvkumyfxillgnqrv
 
 <details>
 <summary>
-<b>Подстроки (<a href="hash_functions/competition.py">competition.py</a>)</b>
+<b>Соревнование (<a href="hash_functions/competition.py">competition.py</a>)</b>
 </summary>
   
 #### Условие
