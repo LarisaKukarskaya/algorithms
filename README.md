@@ -1988,7 +1988,7 @@ gbpdcvkumyfxillgnqrv
 
 <details>
 <summary>
-<b>Странное сравнение (<a href="hash_functions/strange_comperison.py">strange_comperison.py</a>)</b>
+<b>Странное сравнение (<a href="hash_functions/strange_comparison.py">strange_comparison.py</a>)</b>
 </summary>
   
 #### Условие
